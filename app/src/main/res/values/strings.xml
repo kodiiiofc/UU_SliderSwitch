@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SliderSwitch</string>
+    <string name="lorem">Phasellus maximus, tellus nec auctor viverra, turpis urna semper libero,
+        in sollicitudin elit lorem ut libero. Vestibulum tristique semper felis vitae egestas. Cras
+        sit amet luctus nulla, et laoreet dolor. Maecenas tristique, purus eu auctor tempor, tellus
+        nulla viverra purus, malesuada pellentesque nulla metus eu risus. Morbi sem felis, laoreet
+        id diam et, pharetra iaculis tortor. Nam vitae tincidunt elit. </string>
+</resources>
